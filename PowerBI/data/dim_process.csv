@@ -2,3 +2,5 @@ ProcessID,ProcessName,ConsumerID,SystemID,SLA_Seconds,Owner
 1,InvoiceProcessing,1,1,3600,finance-team@example.com
 2,PayrollRun,1,2,7200,finance-payroll@example.com
 3,OnboardingFlow,2,2,1800,digitalization-team@example.com
+4,ExpenseApproval,1,2,1200,finance-expense@example.com
+5,CustomerSync,2,1,3000,digitalization-sync@example.com

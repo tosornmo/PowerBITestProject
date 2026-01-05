@@ -10,5 +10,8 @@ Recommendations:
   - `PowerBI/data/dim_consumer.csv`
   - `PowerBI/data/dim_process.csv`
   - `PowerBI/data/fact_jobrun.csv`
+  - `PowerBI/data/fact_jobrun_sample.csv` (expanded mock dataset for demos)
+
+You can also run the example extraction scripts under `scripts/` and then `scripts/ingest-merge.ps1` to create `PowerBI/data/fact_jobrun_normalized.csv` for direct import into Power BI.
 
 - Use the Power BI service to publish reports and datasets; track deployment steps in `docs/`.
