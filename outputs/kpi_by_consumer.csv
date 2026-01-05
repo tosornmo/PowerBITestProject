@@ -1,0 +1,3 @@
+ConsumerID,TotalRuns,Successful,Failed,AvgDuration,SLACompliancePct,ConsumerName
+1,29791,26584,2897,3445.342418851331,66.6812124467121,Finance
+2,20209,17846,2148,2407.6602503834924,63.74387649067247,Team Digitalization

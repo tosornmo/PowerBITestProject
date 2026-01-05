@@ -1,0 +1,6 @@
+ProcessID,ProcessName,BaselineSLA%,RecentSLA%,BaselineAvgDur,RecentAvgDur,Status
+1,InvoiceProcessing,71.35,71.77,3054.64,3031.95,Stable
+2,PayrollRun,72.26,72.52,6107.45,6014.15,Stable
+3,OnboardingFlow,71.28,72.12,1516.08,1544.0,Stable
+4,ExpenseApproval,55.04,55.43,1317.99,1320.81,Stable
+5,CustomerSync,54.07,51.53,3345.71,3517.25,Improving
