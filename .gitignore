@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI artifacts (binary)
+*.pbix
+*.pbit
+
+# Power Automate exports / solution packages
+*.zip
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log

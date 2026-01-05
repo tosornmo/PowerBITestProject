@@ -1,0 +1,22 @@
+{
+  "name": "SampleFlow",
+  "definition": {
+    "triggers": {
+      "manual": {
+        "type": "Request",
+        "kind": "http",
+        "inputs": {
+          "schema": {}
+        }
+      }
+    },
+    "actions": {
+      "Compose": {
+        "type": "Compose",
+        "inputs": "Hello from SampleFlow"
+      }
+    }
+  },
+  "connections": {},
+  "description": "A minimal skeleton flow for documentation purposes"
+}
