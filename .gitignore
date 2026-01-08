@@ -24,3 +24,7 @@ __pycache__/
 # Logs
 logs/
 *.log
+
+# Package Lock files
+package-lock.json
+yarn.lock
